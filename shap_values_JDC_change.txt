@@ -1,0 +1,3 @@
+SHAP value for x_seq: 101.59883117675781
+SHAP value for t_x: 19.588430404663086
+SHAP value for t_y: 32.28189468383789
